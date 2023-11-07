@@ -8,7 +8,7 @@ public class Main {
 
         try {
 
-            String outFilePath = "C:/Users/Usuari/Desktop/directories.txt";
+            String outFilePath = "directories.txt";
 
             if (args.length == 1) {
 
