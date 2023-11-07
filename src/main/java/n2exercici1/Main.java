@@ -10,7 +10,7 @@ public class Main {
 
         try {
 
-            String propertiesPath = "n2exercici1/Properties.properties";
+            String propertiesPath = "src/main/java/n2exercici1/Properties.properties";
 
                 Directory directory = new Directory(propertiesPath);
 
