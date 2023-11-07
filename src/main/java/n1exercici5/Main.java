@@ -9,7 +9,7 @@ public class Main {
 
         try {
 
-            String serFilePath = "C:/Users/Usuari/Desktop/person.ser";
+            String serFilePath = "person.ser";
 
                Directory directory = new Directory(serFilePath);
 
